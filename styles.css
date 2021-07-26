@@ -23,22 +23,27 @@ main {
     padding-top: 9%;
 }
 
-.glogo {
-    padding-bottom: 2%;
-    transform: scale(1);
+.middle {
+    padding-top: 100px;
 }
+
+.searchbar {
+    margin-top: 30px;
+    border-radius: 15px;
+    border-width: 1px;
+    transform: scale(2.5);
+}
+
 
 button {
     padding: 5px 5px 5px 5px;
 }
 
 .buttons {
-    padding-top: 20px;
+    padding-top: 40px;
+    border-width: 0px;
 }
 
-.language {
-    padding-top: 50px;
-}
 
 footer {
     position: fixed;
